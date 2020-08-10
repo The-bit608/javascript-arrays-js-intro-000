@@ -34,7 +34,7 @@ return(array)
 function accessElementInArray(array, index) {
 return(array[index])
 }
-function destructivelyRemoveElementToEndOfArray(array, element) {
+function destructivelyRemoveElementToEndOfArray(array) {
 array.pop()
 return array
 }
