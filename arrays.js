@@ -30,7 +30,7 @@ function destructivelyRemoveElementFromBeginningOfArray(array) {
 
 }
 function accessElementInArray(array, index) {
-
+console.log(array[index])
 }
 function destructivelyRemoveElementToEndOfArray(array, element) {
 
